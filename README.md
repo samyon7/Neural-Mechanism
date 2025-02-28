@@ -1,9 +1,3 @@
-HAHA, YOU GOT PRANKED? JUST WAIT UNTIL NEXT MONDAY YA, WHILE WAITING YOU CAN SNOOZE WATER AT YOUR MOMMY's HOME
-
-
-Trust me, when you apply this mechanism over attention, your model can cook nasi goreng
-
-
 UPDATE:
 Transformers got limits, esp. on long reads. They just choke sometimes. One technique, linear attention's a speed hack for attention mechs: kernel trick + recurrence. Faster, less memory, handles longer sequences. Tradeoff? Maybe accuracy dips. Worth it?
 
