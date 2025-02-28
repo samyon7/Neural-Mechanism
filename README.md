@@ -1,3 +1,4 @@
+![alt text]([http://url/to/img.png](https://github.com/samyon7/Neural-Mechanism/blob/master/Solution/Mechanism_FlowChart.png))
 ## UPDATE:
 Transformers got limits, esp. on long reads. They just choke sometimes. One technique, linear attention's a speed hack for attention mechs: kernel trick + recurrence. Faster, less memory, handles longer sequences. Tradeoff? Maybe accuracy dips. Worth it?
 
