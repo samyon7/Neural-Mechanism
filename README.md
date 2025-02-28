@@ -30,7 +30,7 @@ Engage with the code, use it in your own agent. Opensource is a real fight<br>
 <br>
 
 
-Special Credits for my fellas -> Herman, Wanto, Bun Yen Tao
+Special Credits for my fellas -> Herman, Wanto, Bun Yen Tao, Google <b>(Of Course)</b>
 <br>
 <br>
 <br>
