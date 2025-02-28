@@ -22,6 +22,8 @@ IT'S NOT ABOUT ACCURACY, IT'S ABOUT CONTEXT!!
 Again, as we promise, we will deliver the <b>meta-like neural</b>
 
 Engage with the code, use it in your own agent. Opensource is a real fight
+<b>Go ahead, 'innovate' on this. If you got the IQ for it. Cause we're idiot people :)</b>
+<b>Hack it? If you're some kinda genius, be my guest.</b>
 <br>
 <br>
 <br>
