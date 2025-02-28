@@ -5,3 +5,6 @@ Nah, standard softmax attention scales quadratically, right? N-squared complexit
 
 
 Engage with the code, use it in your own agent. Opensource is a real fight
+
+
+Special Credits for my fellas -> Herman, Wanto, Bun Yen Tao
